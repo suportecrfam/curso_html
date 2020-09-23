@@ -6,7 +6,7 @@ body{
 }
 
 .principal{	
-	background: #CCCCCC;
+	background: #CCCCCC;	
 }
 
 h1{
@@ -30,5 +30,17 @@ em strong{
 }
 
 .beneficios{
+	padding: 20px;
 	background: #FFFFFF;
+}
+
+ul{
+	display: inline-block;
+	width: 20%;
+	margin-right: 15%;
+	vertical-align: top;
+}
+
+.imagembeneficios{
+	width: 50%;
 }
