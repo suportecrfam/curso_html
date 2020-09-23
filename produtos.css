@@ -1,5 +1,19 @@
 header{
 	background: #BBBBBB;
+	padding: 20px;
+}
+
+.caixa{
+	width: 940px;
+	position: relative;
+	margin: 0 auto;
+}
+
+nav{
+	position: absolute;
+	top: 110px;
+	right: 0;
+	
 }
 
 nav li{
@@ -12,5 +26,5 @@ nav a{
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
-	margin: 0 0 0 15px;
+	margin: 0 0 0 25px;
 }
